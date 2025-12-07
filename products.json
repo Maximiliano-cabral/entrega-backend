@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta de Algodón",
+    "precio": 15,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 2,
+    "nombre": "Auriculares Bluetooth",
+    "precio": 35.5,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 3,
+    "nombre": "Botella de Agua",
+    "precio": 8.99,
+    "categoria": "Hogar"
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatillas Deportivas",
+    "precio": 60,
+    "categoria": "Calzado"
+  },
+  {
+    "id": 5,
+    "nombre": "Mochila Escolar",
+    "precio": 20,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 6,
+    "nombre": "Reloj Digital",
+    "precio": 45,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 7,
+    "nombre": "Gorra Negra",
+    "precio": 12,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 8,
+    "nombre": "Cuaderno de Notas",
+    "precio": 4.5,
+    "categoria": "Papelería"
+  },
+  {
+    "id": 9,
+    "nombre": "Lámpara de Escritorio",
+    "precio": 22,
+    "categoria": "Hogar"
+  },
+  {
+    "id": 10,
+    "nombre": "Teclado Inalámbrico",
+    "precio": 28,
+    "categoria": "Electrónica"
+  }
+]
